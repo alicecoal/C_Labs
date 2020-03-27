@@ -1,0 +1,3 @@
+all:
+	gcc Source1.c -o Source1 -lm -std=c89
+	./Source1.exe

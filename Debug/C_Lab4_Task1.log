@@ -1,0 +1,11 @@
+﻿  Source1.c
+F:\Lab4\C_Lab4_Task1\Source1.c(75,23): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char (*)[128]"
+F:\Lab4\C_Lab4_Task1\Source1.c(75,23): warning C4024: strcpy: различные типы для формального и фактического параметров 2
+F:\Lab4\C_Lab4_Task1\Source1.c(76,17): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[128]"
+F:\Lab4\C_Lab4_Task1\Source1.c(76,17): warning C4024: strcpy: различные типы для формального и фактического параметров 1
+F:\Lab4\C_Lab4_Task1\Source1.c(76,24): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char (*)[128]"
+F:\Lab4\C_Lab4_Task1\Source1.c(76,24): warning C4024: strcpy: различные типы для формального и фактического параметров 2
+F:\Lab4\C_Lab4_Task1\Source1.c(77,17): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[128]"
+F:\Lab4\C_Lab4_Task1\Source1.c(77,17): warning C4024: strcpy: различные типы для формального и фактического параметров 1
+F:\Lab4\C_Lab4_Task1\Source1.c(11,8): warning C4101: p: неиспользованная локальная переменная
+  C_Lab4_Task1.vcxproj -> F:\Lab4\C_Lab4_Task1\Debug\C_Lab4_Task1.exe
