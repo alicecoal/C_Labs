@@ -1,3 +1,0 @@
-all:
-	gcc Source2.c -o Source2 -lm -std=c89
-	./Source2.exe
